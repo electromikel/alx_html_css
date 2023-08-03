@@ -1,1 +1,1 @@
-In this project, i will be desighning a webpage using html and css to finetune the structure of the page. i am using vcs as the text document and the project is a from my learning at Alx.
+In this project, i will be desighning a webpage using html and using css to finetune the structure of the page. I am using vcs(Visual Studio Code) as the text document and the project is from my learning at Alx.
